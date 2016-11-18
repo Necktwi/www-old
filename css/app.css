@@ -2,15 +2,22 @@ html {
     background-color: #fff;
     color: #000;
 }
+<<<<<<< HEAD
 html, body {
     height: 100%;
 }
+=======
+
+>>>>>>> 91e1e7a9c0bdf85be4d1373339e64e226ca5736e
 .double-sided {
     -webkit-backface-visibility: visible;
     backface-visibility: visible;
 }
+<<<<<<< HEAD
 footer {
     text-align: center
     height:100%
     
 }
+=======
+>>>>>>> 91e1e7a9c0bdf85be4d1373339e64e226ca5736e
