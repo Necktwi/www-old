@@ -37,8 +37,4 @@ var spinXModifier = new Modifier({
 	}
 });
 
-<<<<<<< HEAD
 mainContext.add(centerModifier).add(spinYModifier).add(logo);
-=======
-mainContext.add(centerModifier).add(spinXModifier).add(spinYModifier).add(logo);
->>>>>>> 91e1e7a9c0bdf85be4d1373339e64e226ca5736e
